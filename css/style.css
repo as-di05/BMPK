@@ -84,7 +84,6 @@ transition: 0.3s;
 
 #top-nav {  
 justify-content: space-between;
-    align-items: center;
     display: flex;
     
 }  
